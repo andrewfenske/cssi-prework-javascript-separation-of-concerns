@@ -41,7 +41,7 @@ The rest of the HTML
 
 You can add as many different scripts as you like. The `src` property is versatile - you can give it the name of a file in the same folder as the HTML, or the path to a file in another folder, or even the url of a script that exists somewhere else.
 
-After adding the script tag, save the HTML file and load it up in the browser. Check your console, and see your message printed out!
+After adding the script tag, save the HTML file and load it up in the browser. Check your console (command+shift+j), and see your message printed out!
 
 ## Separation of Concerns
 HTML, CSS, and JavaScript work together to create the dynamic web pages we see on the web today. We keep each in their own files, but linked together they provide structure, style and dynamic interactivity to the page.

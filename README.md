@@ -12,6 +12,8 @@ After this lesson, you'll be able to:
 
 We’ve been using the console to play around and test JavaScript core concepts. What if we want to create JavaScript that we can save for later, or use to add dynamic interaction to our HTML/CSS website?
 
+Open this repository on your computer using the "Open" button on Learn.
+
 In this repository we have a simple `index.html` file that we'll start with. Let's connect it to a javascript file.
 
 First off, we'll need to save our JavaScript as a text file with a .js extension. Go ahead and create a `my_script.js` file in the same folder (by using `touch my_script.js`) and open it up in Atom.
